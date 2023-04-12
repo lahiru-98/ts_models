@@ -1,14 +1,10 @@
-Flask==1.1.1
-gunicorn==19.9.0
-Werkzeug==0.15.5
+Flask
+gunicorn
+Werkzeug
 numpy
-pandas>=0.19
-tensorflow==2.11.0
-tensorflow_hub
-Pillow==2.6.1
+pandas
 datetime
 pandas
 joblib
-
 
 
